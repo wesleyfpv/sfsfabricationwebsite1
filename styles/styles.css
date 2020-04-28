@@ -320,15 +320,7 @@ a {
 }
 
 /* Text */
-#sidebar p.name, #sidebar p.jobrole {
-  height: auto;
-  width: auto;
-  margin: 0;
-  font-family: poppinslight;
-  font-size: 1.5em;
-  line-height: 1.5em;
-  color: #FFFFFF;
-}
+
 
 label {
   font-family: poppinslight;
@@ -337,11 +329,7 @@ label {
   color: #FFFFFF;
 }
 
-#sidebar p.name {
-  margin: 20px 0 0 0;
-  font-family: poppinssemibold;
-  color: #0ea4fd;
-}
+
 
 .left h2 {
   font-family: poppinssemibold;
@@ -380,31 +368,7 @@ label {
 
 @media only screen and (max-width: 870px) {
 
-  /* Layout */
-  #contact label {
-    display: block;
-    width: 100%;
-    text-align: center;
-  }
 
-  #contact input[type="text"] {
-    height: 30px;
-  }
-
-  #contact input[type="submit"] {
-    border: 0;
-    margin: 10px auto;
-  }
-
-  #contact label[for="message"] {
-    height: auto;
-    padding: 0;
-  }
-
-  #contact textarea {
-    height: 200px;
-  }
-}
 
 @media only screen and (max-width: 767px) {
 
@@ -421,9 +385,7 @@ label {
     margin: 10px 0;
   }
 
-  #contact {
-    padding: 0;
-  }
+
 
   .left, .right {
     position: relative;
@@ -451,6 +413,4 @@ label {
     font-size: 14px;
   }
 
-  #contact input[type="text"], #contact textarea {
-    width: 80%;
-  }
+  
