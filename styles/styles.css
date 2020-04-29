@@ -66,13 +66,6 @@
   box-sizing: border-box;
 }
 
-nav {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  min-height: 8vh;
-  background-color: #FFFFFF;
-}
 
 h4 {
   color: #FFF111;
@@ -96,7 +89,7 @@ body {
 }
 
 #showcase {
-  background-image: url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+  background-image: url('/images/14.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -412,5 +405,3 @@ label {
   body {
     font-size: 14px;
   }
-
-  
