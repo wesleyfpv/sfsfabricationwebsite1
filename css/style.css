@@ -1144,7 +1144,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../images/welding.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
@@ -1670,7 +1670,7 @@ h3 {
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area::before {
   content: '';
-  background-image: url(../img/about/about.png);
+  background-image: url(../img/about/about.jpg);
   left: 0;
   top: 0;
   height: 100%;
@@ -3519,7 +3519,7 @@ h3 {
   right: 0;
   top: 0;
   height: 100%;
-  background-image: url(../img/work/work.png);
+  background-image: url(../img/work/work.jpg);
   background-size: cover;
   background-position: center center;
   -webkit-border-radius: 20px 0 0 20px;
