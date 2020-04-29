@@ -89,7 +89,7 @@ body {
 }
 
 #showcase {
-  background-image: url('/images/14.jpg');
+  background-image: url('/images/fabtest2.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -104,10 +104,12 @@ body {
 #showcase h1 {
   font-size: 50px;
   line-height: 1.2;
+  color: #FFFFFF;
 }
 
 #showcase p {
   font-size: 20px;
+  color: #FFFFFF;
 }
 
 /* Layout */
@@ -257,7 +259,7 @@ a {
 
 #grid li:nth-child(6n+4), #grid li:nth-child(6n+5), #grid li:nth-child(6n+6) {
   margin-top: -6.9285714285%;
-  margin-bottom: -6.9285714285%;
+  margin-bottom: 10.9285714285%;
 }
 
 #grid li:nth-child(6n+1), #grid li:nth-child(6n+2), #grid li:nth-child(6n+3) {
