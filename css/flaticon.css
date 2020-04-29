@@ -1,9 +1,6 @@
 
 
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 07/09/2019 08:07
-  	*/
+
 
 	  @font-face {
 		font-family: "Flaticon";
@@ -17,22 +14,22 @@
 		font-weight: normal;
 		font-style: normal;
 	  }
-	  
+
 	  @media screen and (-webkit-min-device-pixel-ratio:0) {
 		@font-face {
 		  font-family: "Flaticon";
 		  src: url("./Flaticon.svg#Flaticon") format("svg");
 		}
 	  }
-	  
+
 	  [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-	  [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	  [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
 		font-family: Flaticon;
 			  font-size: 20px;
 	  font-style: normal;
 	  margin-left: 20px;
 	  }
-	  
+
 	.flaticon-legal-paper:before {
 		content: "\e001";
 	}

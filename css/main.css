@@ -2,8 +2,6 @@
 
 
 
-/*//////////////////////////////////////////////////////////////////
-[ FONT ]*/
 
 @font-face {
   font-family: Poppins-Regular;
@@ -28,8 +26,7 @@
 
 
 
-/*//////////////////////////////////////////////////////////////////
-[ RESTYLE TAG ]*/
+
 
 * {
 	margin: 0px;
@@ -42,7 +39,6 @@ body, html {
 	font-family: Poppins-Regular, sans-serif;
 }
 
-/*---------------------------------------------*/
 a {
 	font-family: Poppins-Regular;
 	font-size: 14px;
@@ -63,7 +59,6 @@ a:hover {
 	text-decoration: none;
 }
 
-/*---------------------------------------------*/
 h1,h2,h3,h4,h5,h6 {
 	margin: 0px;
 }
@@ -82,7 +77,6 @@ ul, li {
 }
 
 
-/*---------------------------------------------*/
 input {
 	outline: none;
 	border: none;
@@ -117,7 +111,6 @@ textarea:-moz-placeholder { color: #adadad;}
 textarea::-moz-placeholder { color: #adadad;}
 textarea:-ms-input-placeholder { color: #adadad;}
 
-/*---------------------------------------------*/
 button {
 	outline: none !important;
 	border: none;
@@ -133,7 +126,7 @@ iframe {
 }
 
 
-/*---------------------------------------------*/
+
 .container {
 	max-width: 1200px;
 }
@@ -142,8 +135,7 @@ iframe {
 
 
 
-/*//////////////////////////////////////////////////////////////////
-[ Contact ]*/
+
 
 .container-contact100 {
   width:100%;
@@ -171,8 +163,7 @@ iframe {
 }
 
 
-/*------------------------------------------------------------------
-[ Form ]*/
+
 
 .contact100-form {
   width: 100%;
@@ -190,8 +181,7 @@ iframe {
 
 
 
-/*------------------------------------------------------------------
-[ Input ]*/
+
 
 .wrap-input100 {
   width: 100%;
@@ -248,7 +238,6 @@ iframe {
 }
 
 
-/*---------------------------------------------*/
 input.input100 {
   height: 40px;
 }
@@ -270,8 +259,7 @@ textarea.input100 {
 }
 
 
-/*------------------------------------------------------------------
-[ Button ]*/
+
 .container-contact100-form-btn {
   display: -webkit-box;
   display: -webkit-flex;
@@ -349,8 +337,6 @@ textarea.input100 {
 }
 
 
-/*------------------------------------------------------------------
-[ Responsive ]*/
 
 @media (max-width: 576px) {
   .wrap-contact100 {
@@ -360,8 +346,6 @@ textarea.input100 {
 
 
 
-/*------------------------------------------------------------------
-[ Alert validate ]*/
 
 .validate-input {
   position: relative;
@@ -429,8 +413,6 @@ textarea.input100 {
 
 
 
-/*//////////////////////////////////////////////////////////////////
-[ Restyle Select2 ]*/
 
 .select2-container {
   display: block;
@@ -452,8 +434,7 @@ textarea.input100 {
   position: relative;
 }
 
-/*------------------------------------------------------------------
-[ in select ]*/
+
 .select2-container .select2-selection--single .select2-selection__rendered {
   font-family: Poppins-Medium;
   font-size: 18px;
@@ -501,8 +482,7 @@ textarea.input100 {
   border-top: 5px solid #999999;
 }
 
-/*------------------------------------------------------------------
-[ Dropdown option ]*/
+
 .select2-container--open .select2-dropdown {
   z-index: 1251;
   border: 0px solid #e5e5e5;
