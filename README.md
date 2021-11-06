@@ -9,8 +9,8 @@ There already is an image folder, so please don't make `img/`
 
 
 To do:
-[ ] Add more to index.html (@Alex-LeRoux-25)
-[ ] Start contact.html (@Alex-LeRoux-25)
-[ ] Start projects.html (@Alex-LeRoux-25)
-[ ] Add photos of all of us at the club to `images/clubPics/` (Anyone)
-[ ] 
+- [ ] Add more to index.html (@Alex-LeRoux-25)
+- [ ] Start contact.html (@Alex-LeRoux-25)
+- [ ] Start projects.html (@Alex-LeRoux-25)
+- [ ] Add photos of all of us at the club to `images/clubPics/` (Anyone)
+- [ ] 
